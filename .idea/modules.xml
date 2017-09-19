@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AS_HuiQianBao/AS_HuiQianBao.iml" filepath="$PROJECT_DIR$/AS_HuiQianBao/AS_HuiQianBao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AS_XinLi.iml" filepath="$PROJECT_DIR$/AS_XinLi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_banner/app_banner.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_banner/app_banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_bga_qrcode/app_bga_qrcode.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_bga_qrcode/app_bga_qrcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_card/app_card.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_card/app_card.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_core/app_core.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_core/app_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_jg_push/app_jg_push.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_jg_push/app_jg_push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_keyboard/app_keyboard.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_keyboard/app_keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_mob/app_mob.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_mob/app_mob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_mob_share/app_mob_share.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_mob_share/app_mob_share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_mob_sms/app_mob_sms.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_mob_sms/app_mob_sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_mq_customer/app_mq_customer.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_mq_customer/app_mq_customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_photo/app_photo.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_photo/app_photo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_qq_picker/app_qq_picker.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_qq_picker/app_qq_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AS_Libs/app_xinli_onekey/app_xinli_onekey.iml" filepath="$PROJECT_DIR$/../AS_Libs/app_xinli_onekey/app_xinli_onekey.iml" />
+    </modules>
+  </component>
+</project>

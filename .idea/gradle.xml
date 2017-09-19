@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../AS_Libs/app_banner" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_bga_qrcode" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_card" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_core" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_jg_push" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_keyboard" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_mob" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_mob_share" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_mob_sms" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_mq_customer" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_photo" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_qq_picker" />
+            <option value="$PROJECT_DIR$/../AS_Libs/app_xinli_onekey" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AS_HuiQianBao" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
